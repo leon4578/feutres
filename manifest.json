@@ -1,0 +1,20 @@
+{
+ "name": "Mes feutres magiques",
+ "short_name": "Feutres",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#fbf3e6",
+ "theme_color": "#c8415b",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
